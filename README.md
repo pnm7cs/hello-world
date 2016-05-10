@@ -1,2 +1,3 @@
 # hello-world
-Intro to Git
+
+I'm a PhD student at UVA.
